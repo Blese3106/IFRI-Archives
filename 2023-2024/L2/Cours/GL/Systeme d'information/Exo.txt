@@ -1,0 +1,5 @@
+Exercice 3: On veut supprimer tout les enregistrements qui contiennent la valeurs qui sont 66 dans le champ "Categorie", Utilise t-on le langage de destruction de donnees ou le langage de manipulation de donnees
+
+Que se passerait-t-il si l'on voulait augmenter la taille du champ categorie
+
+Ex 5: Est-il possible de faire realiser toutes les etapes de la conception d'une base de donnees par une meme personne? Si oui, quelles sont alors ces competences minimales

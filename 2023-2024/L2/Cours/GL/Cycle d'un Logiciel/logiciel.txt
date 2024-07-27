@@ -1,0 +1,151 @@
+CMS(Content Managment System) : Nodepad , wordpress, joomla
+95740974
+
+Quand commence la réalisation d'un logiciel?
+c'est lorsqu'on planifie son développement
+
+On dit qu'un logiciel est terminé lorsqu'il n'évolue plus
+
+Un progiciel est un logiciel professionnel . le logiciel réuni des informations,  et les progiciel réuni toutes ses info. 
+Ex progiciel: ERP
+Catégorie de logiciel:
+- logiciel système: SE
+-logiciel bureautique
+-logiciel applicatif: Permet de gérer des tâches spécifiques (application^)
+-logiciel de programmation ou de développement
+-logiciel embarqué: logiel déjà intégré 
+
+Types de logiciels
+-logiciels payants
+-logiels gratuits
+-logiciels libres: Ici on peut modifier le code source
+
+Caractéristiques d'un logiciel
+-portabilité
+-la complexité 
+-la fiabilité
+-la reproductibilité
+-la malléabilité
+-intangibilité
+-évolutivité
+
+Définition génie logiciel:
+C'est un domaine des sciences de l'ingénieur dont l'objet d'étude est la conception,
+la fabrication, et la maintenance des systèmes informatiques complexes.
+conception, développement et maintenance 
+
+Objectif du génie logiciel
+Développer des logicies de qualité qui répond aux attentes des clients.
+réalisation d'un projet (coût-délai-qualité)
+
+Cycle de développement logiciel
+-spécification des besoins
+-conception générale
+-conception détaillée
+-codage et tests unitaires: test pas vraiment réel
+-intégration des modules: 
+-intégration du logiciel
+-recette: tester l'application dans les conditions réels
+
+Il faut tt ça pour la qualité
+
+Ces étapes peuvent suivre plusieurs méthode de déveeloppement comme le modèle en cascade et en v.
+MODELE EN CASCADE
+Avantage: 
+Simplement et convivial; étapes clairement définies; détection précoce des erreurs; livrable spécifique à chaque phase
+Inconvénients:
+Faible coûts d'exigence dynamique; ne convient pas aux projets complexe; plus long et plus couteux.
+
+MODELE EN V
+Avantages:
+Haute discipline; simple et convivial; vérification et validation à chaque phase de développement
+Inconvénients:
+Rigide et inflexible; ne convient pas au projet complexe; cycle de vie coûteux et plus long.
+
+Modèle itératif
+Le modele de cycle de vie itératif ou incrémentiel commence par la simple implémentation
+d'un petit ensemble d'exigences logicielles et améliore progressivement le logiciel jusqu'à ce que le système complet soit implémenté et prêt à être employé.
+
+Avantage du modèle
+-Les résultats sont obtenus tôt et pérodiquement
+-Commentaires réguliers après chaque itération à l'équipe de développement
+-Chaque itérations rend les tests et déboggage facile
+-Meilleure analyse des risques et gestion 
+
+Inconvenient
+
+
+Modèle en spirale
+Il part du principe que le développement de l'applications représente un cycle itératif, qui doit être
+répété jusqu'à ce que le but fixé soit atteint
+
+Phase 1: Définition des objectifs et d'alternative: chercher les difficultés 
+Phase 2: examens des alternatives où on analyse les alternatives de la phase 1
+Phase 3: Développement et contrôle de l'état intermédiaire: développement du logiciel là il y a plus de risque
+Phase 4: planification du cycle suivant
+
+Avantage 
+-modèle générique flexible
+-implication précoce du clients et des utilisateurs possible
+-contrôle périodique dû aux risques
+-convient aux grands projets
+-maîtrise maximale des coûts, ressources et qualités du projet logiciel
+
+Inconvenient
+-effort de gestion important
+-connaissance en analyse et gestion des risques indispensable, mais souvent manquante
+-inadapté aux petits projets aux risques raisonables
+-les décisions régulières peuvent retarder le processus de développement
+
+Methodes Agile: Agile n'est rien qu'une chaine de developpement et de deploiement rapides. Le modele agile aide a creer des
+logiciels de maniere incrementielle a l'aide de courtes iterations en divisant l'application en petits morceaux de code en suivant 
+le modele de microservices pour s'eloigner sur l'evolution des besoins de l'entreprise. Agile s'adapte aux retours d'information frequents en livrant
+un produit exploitable apres chaque iteration.
+
+Les modules (sprints) durent 1 à 4 semaines. Dans le modele agile, les iterations sont appelées sprints.
+
+	Release = deploiement (version beta)
+
+Principes des methodes agiles
+- Utilisateur: Implication dans le developpement, fourniture des exigences et evaluation des iterations.
+- Increments: Fourniture incrementale du logiciel
+- People: Reconnaissance du talent des developpeurs
+- Changements: Conception orientée evolution
+- Tests: joue le role de specification
+- Binomes: les developpeurs travaillent par binomes
+
+La métrologie: c'est la science des mesures.
+
+* Qu'est ce que la métrologie d'un logiciel ?
+La métrologie du logiciel est un ensemble de méthodes qui permettent d'évaluer la 
+qualité du logiciel. Elle a pour objet de :
+- définir un ensemble de caractéristique mesurable du logiciel;
+- définir des méthodes d'évaluation (test de performance d'un logiciel);
+-définir des outils d'évaluation (analyseur, jeux de testes);
+- d'évaluer les logiciels par la mise en oeuvre de ces méthodes et l'utilisation de ces outils.
+
+Modèles d'évaluation:
+	- Un Facteur : ce sont les désirs de l'utilisateur ie ce qu'il veut.
+	- Un Critère : permet d'évaluer ou d'obtenir un facteur. C'est une exigence, une caractéristique
+	 sur laquelle le développeur se base.
+	- Une métrique : c'est la mesure d'une propriété d'un critère. (par exemple, la taille
+	d'un module pour le critère "simplicité"
+
+Principaux facteurs de qualité d'un logiciel:
+- la conformité aux besoins
+- la fiabilité
+- l'ergonomie (dont la facilité d'emploi)
+- la flexibilité
+- la maintenabilité
+- l'intégrité
+- disponibilité
+
+
+
+
+
+
+
+
+
+

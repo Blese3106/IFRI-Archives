@@ -1,0 +1,2 @@
+Telechargez OracleXE112
+Telechargez SQLDeveloper
